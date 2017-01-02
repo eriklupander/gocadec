@@ -22,3 +22,28 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+.DS_Store
+
+copyall.sh
+erik-cadec-kod.zip
+samples/
+
+accounts.db
+accountservice-*
+
+compositeservice
+compositeservice-*
+
+# eventservice
+eventservice-linux-amd64
+
+# imageservice
+imageservice-*
+imageservice/testimages/bigdata.jpg
+imageservice/testimages/new2.jpg
+
+# securityservice
+# securityservice-*
+
+loadtest/loadtest
